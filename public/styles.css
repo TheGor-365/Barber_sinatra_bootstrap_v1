@@ -1,0 +1,13 @@
+body {
+  font-family: Arial;
+  background-color: white;
+}
+
+.some {
+  font-family: sans-serif;
+}
+
+#uniq {
+  font-size: 14px;
+  opacity: .5;
+}
